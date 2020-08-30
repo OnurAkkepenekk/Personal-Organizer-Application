@@ -1,5 +1,5 @@
 # Personal Organizer Application
-### 1 - [INTRODUCTION]()
+### 1 - [INTRODUCTION](https://github.com/OnurAkkepenekk/Personal-Organizer-Application/blob/master/README.md#1-introduction)
 ### 2 - [DESIGN]()
 ### 3 - [THE WORKS OF TEAM MEMBERS]()
 

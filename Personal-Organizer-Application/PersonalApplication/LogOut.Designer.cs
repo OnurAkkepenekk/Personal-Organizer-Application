@@ -504,7 +504,7 @@
             this.MaximizeBox = false;
             this.Name = "LogOut";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Yeni";
+            this.Text = "User Information";
             this.Load += new System.EventHandler(this.Form2_Load);
             this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.LogOut_KeyPress);
             this.groupBox1.ResumeLayout(false);

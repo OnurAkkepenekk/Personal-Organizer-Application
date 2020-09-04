@@ -298,7 +298,7 @@
             this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "RegisterForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "KayıtFormu";
+            this.Text = "Register Screen";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.RegisterForm_FormClosing);
             this.Load += new System.EventHandler(this.KayıtFormu_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();

@@ -14,8 +14,8 @@ The user is a personal organizer application that can be used by multiple users.
 ![SingUp](https://user-images.githubusercontent.com/61885344/92258016-da400300-eede-11ea-8152-e1fd9d7cae1d.png)
 - #### User Information Screen
 ![UserInformation1](https://user-images.githubusercontent.com/61885344/92260289-5be46080-eee0-11ea-9cd5-a088c5ca7a24.png)
-
-
+- #### NoteBook Screen
+![NoteBook](https://user-images.githubusercontent.com/61885344/92323950-797f0a80-f045-11ea-9313-6bcd32632655.gif)
 ## 3. THE WORKS OF TEAM MEMBERS
 >* [Onur Akkepenek](https://github.com/OnurAkkepenekk)
 >* [Eda Çam](https://github.com/edacaam)

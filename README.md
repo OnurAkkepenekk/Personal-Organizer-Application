@@ -18,6 +18,8 @@ The user is a personal organizer application that can be used by multiple users.
 ![NoteBook](https://user-images.githubusercontent.com/61885344/92323950-797f0a80-f045-11ea-9313-6bcd32632655.gif)
 - #### PhoneBook Screen
 ![PhoneBook](https://user-images.githubusercontent.com/61885344/93454367-92a87680-f8e3-11ea-83cf-e625113bc135.gif)
+- #### SalaryCalculater Screen
+![SalaryCalculator](https://user-images.githubusercontent.com/61885344/93721511-759ccd80-fb99-11ea-8b8f-5425c0d84fc4.gif)
 
 ## 3. THE WORKS OF TEAM MEMBERS
 >* [Onur Akkepenek](https://github.com/OnurAkkepenekk)
